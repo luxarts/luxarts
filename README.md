@@ -6,7 +6,7 @@
 
 ### Are you a developer?
 Check these repositories, maybe you can find something useful for you. 😉
-- [Guide for backend in Go](https://github.com/luxarts/dev2end-go)
+- [Guide for backend in Go in spanish](https://github.com/luxarts/dev2end-go)
 - [Snippets, algorithms, scripts, etc.](https://github.com/luxarts/Useful)
 
 ### Are you interested in my profile and looking for my projects?
