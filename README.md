@@ -9,6 +9,7 @@ Check these repositories, maybe you can find something useful for you. 😉
 - [Guide for backend in Go in spanish](https://github.com/luxarts/dev2end-go)
 - [Snippets, algorithms, scripts, etc.](https://github.com/luxarts/Useful)
 - [Go + Docker + Heroku example](https://github.com/luxarts/heroku-example)
+- [JSend Go implementation](https://github.com/luxarts/jsend-go)
 
 ### Are you interested in my profile and looking for my projects?
 Check these
