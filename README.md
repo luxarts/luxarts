@@ -19,6 +19,7 @@ Check these
 - [IMA-4](https://github.com/luxarts/IMA-4) - MIDI controller similar to [Ableton Push](https://www.ableton.com/en/push/)
 - [LoQueGasto Telegram bot](https://github.com/luxarts/loquegasto-telegram) - Telegram Bot to track your money
 - [LoQueGasto backend](https://github.com/luxarts/loquegasto-backend) - Backend service for [LoQueGasto Telegram Bot](https://github.com/luxarts/loquegasto-telegram)
+- [Telegram Door Bell](https://github.com/luxarts/telegram-door-bell) - Telegram bot and REST API to send a message when your door bell rings.
 ### About me
 I'm 25 years old guy who loves electronics and informatics.
 When I was young I discovered my love for technology so I started learning electronics from magazines, books and internet. Then I started to get interested in software development. Learned C++, Python and JS. Started to work as a freelance frontend developer but as I never stop learning, I moved to backend with PHP, NodeJS and currently Go. I really enjoy learning new technologies, frameworks, processes and development related stuff. I'm a very passionate person that never surrender.  
