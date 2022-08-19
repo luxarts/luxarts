@@ -21,7 +21,7 @@ Check these
 - [LoQueGasto backend](https://github.com/luxarts/loquegasto-backend) - Backend service for [LoQueGasto Telegram Bot](https://github.com/luxarts/loquegasto-telegram)
 - [Telegram Door Bell](https://github.com/luxarts/telegram-door-bell) - Telegram bot and REST API to send a message when your door bell rings.
 ### About me
-I'm 25 years old guy who loves electronics and informatics.
+I'm 26 years old guy who loves electronics and informatics.
 When I was young I discovered my love for technology so I started learning electronics from magazines, books and internet. Then I started to get interested in software development. Learned C++, Python and JS. Started to work as a freelance frontend developer but as I never stop learning, I moved to backend with PHP, NodeJS and currently Go. I really enjoy learning new technologies, frameworks, processes and development related stuff. I'm a very passionate person that never surrender.  
 
 [![luxarts's stats](https://github-readme-stats.vercel.app/api?username=luxarts&theme=dark&show_icons=true&count_private=true&include_all_commits=true)](https://www.github.com/luxarts)
