@@ -13,6 +13,7 @@ Check these repositories, maybe you can find something useful for you. 😉
 
 ### Are you interested in my profile and looking for my projects?
 Check these
+- [Go chat](https://github.com/luxarts/go-chat) - Chat application made with Go using WebSockets
 - [Asimov deployer backend](https://github.com/3DDiamantes/asimov-deployer-backend) - Service to deploy binaries in the machine.
 - [Asimov Backend](https://github.com/3DDiamantes/asimov-backend) - Backend code for Asimov 3D printer
 - [Asimov Tool CLI](https://github.com/3DDiamantes/asimov-tool-cli) - CLI to make the development easier with automated actions
